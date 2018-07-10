@@ -1,2 +1,2 @@
 # pwn-list
-writeups for self-learning
+post-mortem writeups for self-learning
